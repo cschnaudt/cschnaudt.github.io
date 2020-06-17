@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher and Lecturer at the [Department of Political Science](https://www.sowi.uni-mannheim.de/en/research/political-science/), [University of Mannheim](https://www.uni-mannheim.de/en/), Germany.
+I am a Postdoctoral Researcher and Lecturer at the [Department of Political Science](https://www.sowi.uni-mannheim.de/en/research/political-science/), [University of Mannheim](https://www.uni-mannheim.de/en/), Germany. Previously, I have been working as the Project Manager of the [European Social Survey](https://www.europeansocialsurvey.org/) Germany at [GESIS -- Leibniz Institute for the Social Sciences](https://www.gesis.org) and as a Research Associate at the [University of Bielefeld](https://www.uni-bielefeld.de/(en)/soz/) and the [Mannheim Centre for European Social Research (MZES)](https://www.mzes.uni-mannheim.de/d7/en). 
 
 My research and teaching activities are located in the broader areas of political behavior, comparative politics, survey methodology, and quantitative methods. I study the causes and consequences of citizens' political attitudes and behaviors in contemporary democracies, paying particular attention to topics such as [political trust](https://www.springer.com/us/book/9783319894317), political participation, as well as democratic norms and values.
