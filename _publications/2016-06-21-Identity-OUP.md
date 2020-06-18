@@ -2,7 +2,7 @@
 title: "Subnational and National Territorial Identification (chapter in edited volume)"
 collection: publications
 permalink: /publication/2016-06-21-Identity-OUP
-excerpt: 'This chapter investigates the influence of the local context on citizens´ trust in political institutions and authorities.'
+excerpt: 'This chapter analyses citizens’ identification with local, regional, and national levels. It asks whether these identifications constitute a multidimensional construct, indicating exclusive identifications, or a single unidimensional phenomenon, reflecting multiple identifications.'
 date: 2016-06-21
 venue: 'European Identity in the Context of National Identity: Questions of Identity in Sixteen European Countries in the Wake of the Financial Crisis, edited by Bettina Westle and Paolo Segatti'
 paperurl: 'https://doi.org/10.1093/acprof:oso/9780198732907.003.0003'
