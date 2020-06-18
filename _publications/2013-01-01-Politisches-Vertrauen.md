@@ -2,7 +2,7 @@
 title: "Politisches Vertrauen (chapter in edited volume)"
 collection: publications
 permalink: /publication/2013-01-01-Politisches-Vertrauen
-excerpt: 'nope'
+excerpt: 'This paper investigates the influence of the local context on citizens´ trust in political institutions and authorities.'
 date: 2013-01-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
