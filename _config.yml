@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "||Personal homepage||"
+title                    : "|Christian Schnaudt|"
 title_separator          : "-"
 name                     : &name "Christian Schnaudt"
 description              : &description "personal description"
