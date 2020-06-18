@@ -1,5 +1,5 @@
 ---
-title: "The European Social Survey: Contents, Design, and Research Potential (peer-reviewed article)"
+title: "The European Social Survey: Contents, Design, and Research Potential (peer-reviewed journal article)"
 collection: publications
 permalink: /publication/2014-12-31-ESS-Research-Potential
 excerpt: 'This article provides a general overview of the European Social Survey, paying particular attention to its contents, design, and research potential.'
