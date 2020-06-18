@@ -2,7 +2,7 @@
 title: "The European Social Survey: Contents, Design, and Research Potential (peer-reviewed article)"
 collection: publications
 permalink: /publication/2014-12-31-ESS-Research-Potential
-excerpt: 'This paper provides a general overview of the European Social Survey, paying particular attention to its contents, design, and research potential.'
+excerpt: 'This article provides a general overview of the European Social Survey, paying particular attention to its contents, design, and research potential.'
 date: 2014-12-31
 venue: 'Journal of Contextual Economics -- Schmollers Jahrbuch'
 paperurl: 'https://doi.org/10.3790/schm.134.4.487'
