@@ -12,7 +12,7 @@
 
   @include clearfix();
   padding-top: $masthead-height;
-  margin-bottom: 10em;
+  margin-top: 10em;
 
   @include breakpoint($large) {
     @include span(2 of 12);
