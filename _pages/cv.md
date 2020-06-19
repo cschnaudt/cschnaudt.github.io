@@ -21,7 +21,7 @@ Work experience
 
 * 08/2017-05/2020: Post-Doc and Project Manager, GESIS - Leibniz Institute for the Social Sciences
 
-* 10/2014-07/2017: Research Associate, University of Bielefeld and Mannheim Centre for European Social Research (MZES)
+* 10/2014-07/2017: Research Associate, University of Bielefeld and Mannheim Centre for European Social Research
 
 * 09/2009-10/2015: PhD Candidate and Lecturer, University of Mannheim
 
