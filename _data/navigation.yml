@@ -2,15 +2,15 @@
 main:
   - title: "Publications"
     url: /publications/
-    
-  - title: "Teaching"
-    url: /teaching/    
 
-  - title: "Work in progress"
-    url: /talks/    
-    
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Talks & Presentations"
+    url: /talks/
+
   - title: "CV"
     url: /cv/
-    
+
   - title: "Guide"
     url: /markdown/
