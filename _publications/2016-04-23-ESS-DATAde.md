@@ -6,5 +6,5 @@ The country-specific, cumulative data set of the German ESS data thus represents
 date: 2016-04-23
 venue: ''
 paperurl: 'http://www.europeansocialsurvey.org/about/country/germany/german_data.html'
-citation: 'Schnaudt, Christian (2016). <i>Country-specific, cumulative ESS data set for Germany 2002-2014 (ESSDE1-7e01).</i>. Available from http://www.europeansocialsurvey.org/about/country/germany/german_data.html.'
+citation: 'Schnaudt, Christian (2016). <i>Country-specific, cumulative ESS data set for Germany 2002-2014 (ESSDE1-7e01).</i> Available from http://www.europeansocialsurvey.org/about/country/germany/german_data.html.'
 ---
