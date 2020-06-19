@@ -11,49 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Political Science and Communication Studies, University of Mannheim, Germany, 2007
+* M.A. in Political Science, University of Mannheim, Germany, 2009
+* Ph.D (Dr. rer. soc.) in Political Science, University of Mannheim, Germany, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 06/2020-present: Post-Doc and Lecturer, University of Mannheim
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 08/2017-05/2020: Post-Doc and Project Manager, GESIS - Leibniz Institute for the Social Sciences
+
+* 10/2014-07/2017: Research Associate, University of Bielefeld and Mannheim Centre for European Social Research (MZES)
+
+* 09/2009-10/2015: PhD Candidate and Lecturer, University of Mannheim
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
