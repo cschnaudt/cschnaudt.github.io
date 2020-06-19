@@ -1,3 +1,4 @@
+---
 title: "Country-Specific, Cumulative ESS Data Set for Germany 2002-2014 (data)"
 collection: publications
 permalink: /publication/2016-04-23-ESS-DATAde
