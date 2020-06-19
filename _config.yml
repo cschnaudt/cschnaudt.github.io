@@ -85,7 +85,7 @@ author:
   bio              : "Face the consequence of your childish nonsense."
   location         : "Mannheim, Germany"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.de/citations?user=QHfpI64AAAAJ&hl=en"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Christian_Schnaudt"
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      :
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-2062-7770"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "cschnaudt"
@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  workinprogress:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _workinprogress
   - scope:
       path: ""
-      type: portfolio
+      type: workinprogress
     values:
       layout: single
       author_profile: true
