@@ -1,5 +1,5 @@
 ---
-title: "Methods in political sociology: ’Replication, replication’: Political confidence and democracy in Europe (2 exercises, taught in German, Fall 2012)"
+title: "Methods in political sociology: ’Replication, replication’: Political confidence and democracy in Europe (2 Exercises, taught in German, Fall 2012)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2012-fall-exercise
