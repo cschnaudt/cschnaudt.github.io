@@ -33,10 +33,10 @@ redirect_from:
 
 ## Teaching
 
-    <ul>{% for post in site.teaching %}
-      {% include archive-single-cv.html %}
-    {% endfor %}</ul>
-  
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 ## Talks (since 2018)
 
   <ul>{% for post in site.talks %}
