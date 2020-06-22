@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-
+======
 Education
 ======
 * B.A. in Political Science and Communication Studies, University of Mannheim, Germany, 2007
