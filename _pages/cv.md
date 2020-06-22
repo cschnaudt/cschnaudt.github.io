@@ -2,6 +2,7 @@
 layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
+paperurl: 'http://cschnaudt.github.io/files/paper1.pdf'
 author_profile: true
 redirect_from:
   - /resume
