@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download full CV here](http://cschnaudt.github.io/files/paper1.pdf)
+[Download full CV here](http://cschnaudt.github.io/files/CV_Schnaudt.pdf)
 
 
 ## Education
