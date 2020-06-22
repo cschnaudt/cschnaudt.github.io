@@ -21,7 +21,7 @@ Work experience
 ======
 * 06/2020-present: Post-Doctoral Researcher and Lecturer, University of Mannheim
 
-* 08/2017-05/2020: Post-Doc and Project Manager, GESIS - Leibniz Institute for the Social Sciences
+* 08/2017-05/2020: Post-Doctoral Researcher and Project Manager, GESIS - Leibniz Institute for the Social Sciences
 
 * 10/2014-07/2017: Research Associate, University of Bielefeld and Mannheim Centre for European Social Research
 
