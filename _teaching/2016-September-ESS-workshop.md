@@ -4,6 +4,6 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2016-September-ESS-workshop
 venue: "FU Berlin"
-date: 2015-07-25
+date: 2016-09-25
 location: "Berlin, Germany"
 ---
