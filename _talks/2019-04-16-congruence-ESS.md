@@ -3,7 +3,7 @@ title: "Citizen-elite congruence, political allegiances and political support in
 collection: talks
 type: "Conference presentation"
 permalink: /talks/2019-04-16-congruence-ESS
-venue: "4th International ESS Conference „Turbulent times in Europe: Instability, insecurity and inequality“"
+venue: "4th International ESS Conference „Turbulent times in Europe: Instability, insecurity and inequality"
 date: 2019-04-16
 location: "Mannheim, Germany"
 ---
