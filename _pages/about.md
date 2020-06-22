@@ -15,3 +15,5 @@ Prior to that, I have been working as a Senior Researcher and Project Manager of
 My [research](https://cschnaudt.github.io/publications/) and [teaching](https://cschnaudt.github.io/teaching/) activities are located in the broader areas of political behavior, comparative politics, survey methodology, and quantitative methods. I study the causes and consequences of citizens' political attitudes and behaviors in contemporary democracies, paying particular attention to the role and relevance of the context in which citizens are embedded. Specifically, I am interested in topics such as [political trust and confidence](https://www.springer.com/us/book/9783319894317), political participation, political sophistication, as well as democratic norms and values.
 
 For detailed information, please have a look at my [CV](https://cschnaudt.github.io/cv/).
+
+You can reach out to me at: "mysurname"[at]uni-mannheim.de.
