@@ -12,8 +12,8 @@ I am a Postdoctoral Researcher and Lecturer at the [Chair of Political Science -
 
 Prior to that, I have been working as a Senior Researcher and Project Manager of the [European Social Survey](https://www.europeansocialsurvey.org/) Germany at [GESIS -- Leibniz Institute for the Social Sciences](https://www.gesis.org) and as a Research Associate at the [University of Bielefeld](https://www.uni-bielefeld.de/(en)/soz/) and the [Mannheim Centre for European Social Research (MZES)](https://www.mzes.uni-mannheim.de/d7/en).
 
-My [research](https://cschnaudt.github.io/publications/) and [teaching](https://cschnaudt.github.io/teaching/) activities are located in the broader areas of political behavior, comparative politics, survey methodology, and quantitative methods.  
-I study the causes and consequences of citizens' political attitudes and behaviors in modern democracies, paying particular attention to the role and relevance of the context in which citizens are embedded. Specifically, I am interested in topics such as [political trust and confidence](https://www.springer.com/us/book/9783319894317), political participation, political sophistication, as well as democratic norms and values.
+My [research](https://cschnaudt.github.io/publications/) and [teaching](https://cschnaudt.github.io/teaching/) activities are located in the broader areas of political behavior, comparative politics, survey methodology, and quantitative methods. I study the causes and consequences of citizens' political attitudes and behaviors in contemporary democracies, paying particular attention to the role and relevance of the context in which citizens are embedded.  
+Specifically, I am interested in topics such as [political trust and confidence](https://www.springer.com/us/book/9783319894317), political participation, political sophistication, as well as democratic norms and values.
 
 For detailed information, please have a look at my [CV](https://cschnaudt.github.io/cv/).
 
