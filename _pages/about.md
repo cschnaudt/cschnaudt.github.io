@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher and Lecturer at the [Department of Political Science](https://www.sowi.uni-mannheim.de/en/research/political-science/), [University of Mannheim](https://www.uni-mannheim.de/en/), Germany. Prior to that, I have been working as the Project Manager of the [European Social Survey](https://www.europeansocialsurvey.org/) Germany at [GESIS -- Leibniz Institute for the Social Sciences](https://www.gesis.org) and as a Research Associate at the [University of Bielefeld](https://www.uni-bielefeld.de/(en)/soz/) and the [Mannheim Centre for European Social Research (MZES)](https://www.mzes.uni-mannheim.de/d7/en).
+I am a Postdoctoral Researcher and Lecturer at the [Department of Political Science](https://www.sowi.uni-mannheim.de/en/research/political-science/), [University of Mannheim](https://www.uni-mannheim.de/en/), Germany.
+
+Prior to that, I have been working as a Postdoctoral Researcher and Project Manager of the [European Social Survey](https://www.europeansocialsurvey.org/) Germany at [GESIS -- Leibniz Institute for the Social Sciences](https://www.gesis.org) and as a Research Associate at the [University of Bielefeld](https://www.uni-bielefeld.de/(en)/soz/) and the [Mannheim Centre for European Social Research (MZES)](https://www.mzes.uni-mannheim.de/d7/en).
 
 
 My [research](https://cschnaudt.github.io/publications/) and [teaching](https://cschnaudt.github.io/teaching/) activities are located in the broader areas of political behavior, comparative politics, survey methodology, and quantitative methods.
