@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Download full CV here]([Download paper here](http://academicpages.github.io/files/paper1.pdf))
+
+
 ## Education
 
 * B.A. in Political Science and Communication Studies, University of Mannheim, Germany, 2007
