@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-##Education
+Education
 ======
 * B.A. in Political Science and Communication Studies, University of Mannheim, Germany, 2007
 * M.A. in Political Science, University of Mannheim, Germany, 2009
