@@ -1,5 +1,5 @@
 ---
-title: "Selected topics in political sociology: Political confidence and democracy in Europe (Exercise, taught in English)"
+title: "Selected topics in political sociology: Political confidence and democracy in Europe (Exercise, taught in English, Fall 2010)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2010-fall-exercise
