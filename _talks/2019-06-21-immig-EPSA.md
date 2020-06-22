@@ -1,0 +1,29 @@
+---
+title: "Immigration as ‘flash issue’: How the refugee crisis has altered electoral behavior in Europe (w/ Christian Stecker)"
+collection: talks
+type: "Conference presentation"
+permalink: /talks/2019-06-21-immig-EPSA
+venue: "9th Annual Conference of the European Political Science Association (EPSA)"
+date: 2019-06-21
+location: "Belfast, UK"
+---
+
+Abstract:
+The European refugee crisis has put immigration and integration on top of citizen issue priorities.
+Both issues touch upon emotionally charged questions of identity and cultural belongings and have,
+hence, the potential to transform the political landscape. In fact, the increased salience of
+immigration and integration has not only altered the way many Europeans think about these issues,
+it has also strongly affected their electoral behavior as evidenced by the recent electoral successes of
+populist radical right-wing parties (PRRP) in many European countries such as Austria, Germany, Italy,
+or Hungary. In a longitudinal analysis using ESS data, we show that in the wake of the refugee crisis
+anti-immigrant sentiments and the rejection of multiculturalism translate much more often into the
+election of PRRP. Put differently, the refugee crisis has mobilized previously dormant attitudes and
+channeled them into electoral politics. This general effect is, however, moderated by different
+factors at the individual and country level. At the individual level, feelings of distrust as well as a
+perceived lack of political efficacy can be expected to strengthen the effect of anti-immigrant
+sentiments on the vote for PRRP. At the country-level, the programmatic offers by established
+parties influence support for PRRP. While support for PRRP is generally stronger among immigration sceptics
+across all countries, it is particularly pronounced in countries where established parties have
+opened a representation gap by converging on moderately pro-immigration positions. Our paper
+thus illustrates how immigration and integration as ‘flash issues’ disrupt existing party loyalties and
+transform political competition in Europe.
