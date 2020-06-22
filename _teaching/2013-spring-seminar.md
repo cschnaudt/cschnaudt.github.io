@@ -4,6 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2011-spring-seminar
 venue: "University of Mannheim, Department of Political Science"
-date: 2013-02-02
+date: 2013-02-01
 location: "Mannheim, Germany"
 ---
