@@ -41,7 +41,7 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-## Talks (since 2018)
+## Talks & presentations (since 2018)
 
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
