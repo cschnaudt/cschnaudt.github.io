@@ -4,6 +4,6 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2016-July-ESS-workshop
 venue: "University of Bielefeld"
-date: 2015-07-25
+date: 2016-07-25
 location: "Bielefeld, Germany"
 ---
