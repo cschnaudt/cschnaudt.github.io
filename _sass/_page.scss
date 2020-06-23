@@ -36,10 +36,14 @@
 }
 
 .page__title {
+
+  text-align: justify;
   margin-top: 0;
   line-height: 1;
 
   & + .page__meta {
+
+    text-align: justify;
     margin-top: -0.5em;
   }
 }
