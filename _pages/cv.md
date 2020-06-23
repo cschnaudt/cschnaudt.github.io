@@ -15,9 +15,9 @@ redirect_from:
 
 ## Education
 
-* B.A. in Political Science and Communication Studies, University of Mannheim, Germany, 2007
-* M.A. in Political Science, University of Mannheim, Germany, 2009
 * PhD (Dr. rer. soc.) in Political Science, University of Mannheim, Germany, 2018
+* M.A. in Political Science, University of Mannheim, Germany, 2009
+* B.A. in Political Science and Communication Studies, University of Mannheim, Germany, 2007
 
 ## Work experience
 
