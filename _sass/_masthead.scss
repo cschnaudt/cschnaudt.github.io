@@ -20,6 +20,7 @@
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
     background-color: #fff;
+    color: #007d8c;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
