@@ -17,4 +17,4 @@ I study the causes and consequences of citizens' political attitudes and behavio
 
 For detailed information, please have a look at my [CV](https://cschnaudt.github.io/cv/).
 
-*Visiting address*: University of Mannheim \| A5, 6 \| Building A (room 509) \|  68159 Mannheim.
+*Visiting address: University of Mannheim \| A5, 6 \| Building A (room 509) \|  68159 Mannheim.*
