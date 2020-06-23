@@ -3,6 +3,8 @@
    ========================================================================== */
 
 .archive {
+
+  text-align: justify;
   margin-bottom: 2em;
 
   @include breakpoint($medium) {
