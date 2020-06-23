@@ -1,5 +1,5 @@
 ---
-title: "Citizen-elite congruence, political allegiances and political support in Europe. (w/ Caroline Hahn)"
+title: "Citizen-elite congruence, political allegiances and political support in Europe (w/ Caroline Hahn)"
 collection: talks
 type: "Conference presentation"
 permalink: /talks/2019-04-16-congruence-ESS
