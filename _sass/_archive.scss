@@ -4,7 +4,7 @@
 
 .archive {
 
-  text-align: justify;
+
   margin-bottom: 2em;
 
   @include breakpoint($medium) {
@@ -30,7 +30,7 @@
 }
 
 .archive__subtitle {
-  text-align: justify;
+
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
   font-size: $type-size-5;
@@ -44,7 +44,7 @@
 }
 
 .archive__item-title {
-  text-align: justify;
+  
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
 
