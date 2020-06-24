@@ -5,6 +5,7 @@
 #main {
   @include container;
   @include clearfix;
+  text-align: justify;
   margin-top: 2em;
   padding-top: $masthead-height;
   padding-left: 1em;
