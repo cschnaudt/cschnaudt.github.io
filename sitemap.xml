@@ -4,253 +4,203 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
 <url>
   <loc>https://cschnaudt.github.io/</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/cv/</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/publications/</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/talks/</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/workinprogress/</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/teaching/</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/sitemap/</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/publication/2013-01-01-Vertrauen-Springer</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/publication/2013-02-04-Trust-EJPR</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/publication/2014-12-31-ESS-Schmoller</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/publication/2016-04-23-ESS-DATAde</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/publication/2016-06-21-Identity-OUP</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/publication/2016-06-23-Facebook-JITP</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/publication/2016-06-24-ESS-GWP</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/publication/2017-04-15-Immigration-ISI</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/publication/2017-06-12-Partizipation-GWP</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/publication/2018-02-15-Participation-MDA</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/publication/2019-01-01-Confidence-Springer</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/publication/2020-05-25-FWM-SMIF</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/talks/2018-06-22-noc-EPSA</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/talks/2018-08-25-sophistication-ECPR</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/talks/2019-04-15-immig-ESS</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/talks/2019-04-16-congruence-ESS</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/talks/2019-06-21-immig-EPSA</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/teaching/2009-fall-exercise</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/teaching/2010-spring-seminar</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/teaching/2010-fall-exercise</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/teaching/2011-spring-seminar</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/teaching/2012-spring-seminar1</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/teaching/2012-spring-seminar2</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/teaching/2012-fall-exercise</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/teaching/2013-spring-seminar</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/teaching/2013-fall-exercise</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/teaching/2014-spring-exercise</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/teaching/2014-fall-exercise</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/teaching/2015-June-ESS-workshop</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/teaching/2015-fall-exercise</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/teaching/2015-October-ESS-workshop</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/teaching/2016-July-ESS-workshop</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/teaching/2016-October-ESS-workshop</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/teaching/2017-September-ESS-workshop</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/teaching/2018-September-ESS-workshop</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/teaching/2020-fall-exercise</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/teaching/2020-fall-seminar</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/workinprogress/congruence/</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/workinprogress/immigprrp/</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/workinprogress/immigtrust/</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/workinprogress/surveymode/</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cschnaudt.github.io/404.html</loc>
   <lastmod>2020-06-30T16:31:38+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 
 
