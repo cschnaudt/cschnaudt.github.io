@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dr. Christian Schnaudt"
 title_separator          : "-"
-name                     : &name "Dr. Christian Schnaudt"
+name                     : &name "Christian Schnaudt"
 description              : &description "personal description"
 url                      : https://cschnaudt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : ""
   avatar           : "profile1.png"
-  bio              : "Political scientist | bike lover | vinyl junkie"
+  bio              : "Political scientist | shirt lover | bike enthusiast | vinyl junkie"
   location         : "Mannheim, Germany"
   employer         : "University of Mannheim"
   pubmed           :
