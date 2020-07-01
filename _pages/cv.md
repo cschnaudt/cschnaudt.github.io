@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CURRICULUM VIT&AElig;"
+title: "Curriculum vit&aelig;"
 permalink: /cv/
 paperurl: 'http://cschnaudt.github.io/files/paper1.pdf'
 author_profile: true
