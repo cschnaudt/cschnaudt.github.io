@@ -16,6 +16,6 @@ My [research](https://cschnaudt.github.io/publications/) and [teaching](https://
 I study the causes and consequences of citizens' political attitudes and behaviors in modern democracies, paying particular attention to the role and relevance of the context in which citizens are embedded. Specifically, I am interested in topics such as [political confidence and trust](https://www.springer.com/us/book/9783319894317){:target="_ blank"}, social and political participation, political sophistication, as well as democratic norms and values.
 
 For detailed information, please have a look at my [CV](https://cschnaudt.github.io/cv/).
-
-  
+  &nbsp;
+  &nbsp;
 *Visiting address*: University of Mannheim \| A5, 6 \| Building A (room 508) \|  68159 Mannheim.
