@@ -26,7 +26,7 @@
         <li><i class="fa fa-fw fa-map-pin" style="color:#426580" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><i class="fa fa-fw fa-cog fa-spin" style="color:#002966" aria-hidden="true"></i> {{ author.employer }}</li>
+        <li><i class="fa fa-fw fa-cog fa-spin" style="color:#426580" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}" target="_blank" rel="noopener"><i class="fas fa-fw fa-link" style="color:#426580" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
