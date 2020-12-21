@@ -4,6 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-spring-seminar1
 venue: "University of Mannheim, Department of Political Science"
-date: 2020-12-21
+date: 2021-03-01
 location: "Mannheim, Germany"
 ---
