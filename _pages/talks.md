@@ -11,6 +11,7 @@ author_profile: true
 
 {% endif %}
 
+{% include base_path %}
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
