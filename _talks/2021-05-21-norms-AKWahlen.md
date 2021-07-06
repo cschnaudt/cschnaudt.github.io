@@ -3,7 +3,7 @@ title: "Revisiting norms of citizenship in times of democratic change (w/ Jan W.
 collection: talks
 type: "Conference presentation"
 permalink: /talks/2021-05-21-norms-AKWahlen
-venue: "Annual Conference of the German Political Science Association's Study Group on "Elections and political attitudes" (AK Wahlen und politische Einstellungen)"
+venue: "Annual Conference of the German Political Science Association's Study Group on 'Elections and political attitudes' (AK Wahlen und politische Einstellungen)"
 date: 2021-05-21
 location: "virtual meeting"
 ---
