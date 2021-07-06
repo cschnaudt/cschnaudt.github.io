@@ -3,7 +3,7 @@ title: "Institutional performance, political trust, and the moderating role of p
 collection: talks
 type: "Conference presentation"
 permalink: /talks/2021-07-13-performance-IPSA
-venue: ""
+venue: "26th World Congress of the International Political Science Association (IPSA)"
 date: 2021-07-13
 location: "virtual meeting"
 ---
