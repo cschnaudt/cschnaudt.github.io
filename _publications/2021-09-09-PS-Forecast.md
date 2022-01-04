@@ -6,5 +6,5 @@ excerpt: 'In this contribution, we break new ground in structural election forec
 date: 2021-09-09
 venue: 'PS: Political Science & Politics'
 paperurl: 'https://doi.org/10.1017/S1049096521000998'
-citation: 'Quinlan, Stephen, Schnaudt, Christian, and Lewis-Beck, Michael. 2021. "Forecasting Bloc Support in German Federal Elections: A Political-History Model." PS: Political Science & Politics (online first): 1-6. '
+citation: 'Quinlan, Stephen, Schnaudt, Christian, and Lewis-Beck, Michael. 2022. "Forecasting Bloc Support in German Federal Elections: A Political-History Model." <i>PS: Political Science & Politics</i> 55(1), 91-96. '
 ---
