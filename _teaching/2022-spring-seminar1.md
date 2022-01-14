@@ -1,5 +1,5 @@
 ---
-title: "Selected topics in political sociology: Between apathy and activism: Citizens' roles in advanced democracies in a European comparative perspective (Seminar, taught in German, Spring 2022)"
+title: "Selected topics in political sociology: Political attitudes and participation in a European comparative perspective (Seminar, taught in German, Spring 2022)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-spring-seminar1
