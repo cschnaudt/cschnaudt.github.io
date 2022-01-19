@@ -1,7 +1,7 @@
 ---
 title: "The representativity of deliberative democracy (w/ Rüdiger Schmitt-Beck)"
 collection: talks
-type: "guest lecture"
+type: "Guest lecture"
 permalink: /talks/2022-01-19-EPT-ALLBUS
 venue: "Lecture series '40 Years German General Social Survey' (GESIS)"
 date: 2021-07-13
