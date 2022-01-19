@@ -4,7 +4,7 @@ collection: talks
 type: "Guest lecture"
 permalink: /talks/2022-01-19-EPT-ALLBUS
 venue: "Lecture series '40 Years German General Social Survey' (GESIS)"
-date: 2021-07-13
+date: 2022-01-19
 location: "virtual meeting"
 ---
 
