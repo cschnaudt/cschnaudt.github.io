@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "The winner-loser gap in perceptions of electoral integrity in Germany"
 collection: talks
 type: "Conference presentation"
 permalink: /talks/2022-05-20-EIP-AKWahlen
