@@ -7,5 +7,3 @@ venue: "Annual Electoral Integrity Project Conference on 'Challenges of Electora
 date: 2022-07-04
 location: "virtual"
 ---
-
-Abstract:
