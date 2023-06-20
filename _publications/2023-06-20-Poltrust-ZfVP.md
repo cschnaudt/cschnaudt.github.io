@@ -1,0 +1,10 @@
+---
+title: "How procedural and economic performance shape political trust: Affective and cognitive foundations of the performance-trust nexus (peer-reviewed journal article)"
+collection: publications
+permalink: /publication/2023-06-20-Poltrust-ZfVP
+excerpt: 'In which ways and under what conditions do the procedural and economic performance of political systems matter for citizens´ political trust? While this question has been a recurring theme in research on political support, we still lack a clear understanding of the conditional nature of the performance-trust nexus. In this study, we focus on the affective and cognitive foundations of the performance-trust nexus, arguing that the impact of objective procedural and economic performance on political trust is conditioned by citizens´ political allegiances (i.e., status as electoral winner or loser) and political sophistication (i.e., political knowledge and political interest). Our empirical analysis using comparative survey data from two European high-quality surveys (European Election Study 2014 and European Social Survey 2002–2018) shows that procedural and economic performance feature particularly prominently in the trust calculus of politically more knowledgeable and interested citizens as well as electoral losers, while being less relevant for the political trust of less sophisticated citizens and electoral winners. Moreover, the analysis provides evidence that cognitive orientations are overall more important than affective ones in moderating the performance-trust nexus. These findings offer important implications concerning the nature and meaning of feelings of disenchantment and distrust in contemporary democracies.'
+date: 2023-06-20
+venue: 'Zeitschrift für Vergleichende Politikwissenschaft'
+paperurl: 'https://link.springer.com/article/10.1007/s12286-023-00570-y'
+citation: 'Schnaudt, Christian and Popa, Sebastian A. 2023. "How procedural and economic performance shape political trust: Affective and cognitive foundations of the performance-trust nexus." <i>Zeitschrift für Vergleichende Politikwissenschaft</i> (online first).'
+---
