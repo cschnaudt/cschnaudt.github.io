@@ -6,5 +6,5 @@ excerpt: 'In which ways and under what conditions do the procedural and economic
 date: 2023-06-20
 venue: 'Zeitschrift für Vergleichende Politikwissenschaft'
 paperurl: 'https://link.springer.com/article/10.1007/s12286-023-00570-y'
-citation: 'Schnaudt, Christian and Popa, Sebastian A. 2023. "How procedural and economic performance shape political trust: Affective and cognitive foundations of the performance-trust nexus." <i>Zeitschrift für Vergleichende Politikwissenschaft</i> (online first).'
+citation: 'Schnaudt, Christian and Popa, Sebastian A. 2023. "How procedural and economic performance shape political trust: Affective and cognitive foundations of the performance-trust nexus." <i>Zeitschrift für Vergleichende Politikwissenschaft</i> 17(1), 31-57.'
 ---
