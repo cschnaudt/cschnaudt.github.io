@@ -6,5 +6,5 @@ excerpt: 'Attitudes toward immigrants and immigration are a central explanation 
 date: 2022-12-16
 venue: 'International Journal of Public Opinion Research'
 paperurl: 'http://dx.doi.org/10.1093/ijpor/edac034'
-citation: 'Schnaudt, Christian and Stecker, Christian (2022). &quot;Uncovering the flash potential of immigration: attitudes, salience, and far-right support in Europe.&quot; <i>International Journal of Public Opinion Research</i> 34 (4), 1-12 (online first).'
+citation: 'Schnaudt, Christian and Stecker, Christian (2022). &quot;Uncovering the flash potential of immigration: attitudes, salience, and far-right support in Europe.&quot; <i>International Journal of Public Opinion Research</i> 34 (4), 1-12.'
 ---
