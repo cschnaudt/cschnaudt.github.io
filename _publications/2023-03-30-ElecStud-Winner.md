@@ -6,5 +6,5 @@ excerpt: 'This study investigates whether and how experiences of winning and los
 date: 2023-03-30
 venue: 'Electoral Studies'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0261379423000331'
-citation: 'Schnaudt, Christian (2023). &quot;Mind the gap(s): Winning, losing, and perceptions of electoral integrity in mixed-member proportional systems.&quot; <i>Electoral Studies</i> 83 (online first).'
+citation: 'Schnaudt, Christian (2023). &quot;Mind the gap(s): Winning, losing, and perceptions of electoral integrity in mixed-member proportional systems.&quot; <i>Electoral Studies</i> 83(June), 102611.'
 ---
