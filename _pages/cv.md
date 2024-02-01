@@ -15,7 +15,8 @@ redirect_from:
 
 ## Academic positions
 
-* 06/2020-present: Post-Doctoral Researcher and Lecturer, University of Mannheim (DE)
+* 02/2024-present: Post-Doctoral Researcher, Mannheim Centre for European Social Research (DE)
+* 06/2020-01/2024: Post-Doctoral Researcher and Lecturer, University of Mannheim (DE)
 * 10/2022-03/2023: Interim Professor for Empirical-Analytical Participation Research, University of Heidelberg (DE)
 * 08/2017-05/2020: Post-Doctoral Researcher and Project Manager, GESIS - Leibniz Institute for the Social Sciences (DE)
 * 11/2014-12/2014: Visiting Fellow, Institute of Sociology, Academy of Sciences of the Czech Republic, Prague (CZ)
