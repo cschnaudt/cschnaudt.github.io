@@ -1,5 +1,5 @@
 ---
-title: "Electoral integrity and political behavior: The impact of individual perceptions and contextual conditions"
+title: "Election fairness and political behavior across contexts: The distinct roles of electoral integrity and malpractice"
 excerpt:
 
 collection: workinprogress
