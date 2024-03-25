@@ -1,5 +1,5 @@
 ---
-title: "Perceptions of electoral integrity and law compliance"
+title: "Perceptions of electoral fairness and rule-breaking behavior"
 excerpt:
 
 
