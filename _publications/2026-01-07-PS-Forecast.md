@@ -6,5 +6,5 @@ excerpt: 'What if citizens feel that election outcomes are the result of elector
 date: 2026-01-07
 venue: 'PS: Political Science & Politics'
 paperurl: 'https://doi.org/10.1017/S1049096525000204'
-citation: 'Schnaudt, Christian (2026). &quot;A Political History Forecast of Bloc Support in the 2025 German Federal Election.&quot; <i>PS: Political Science & Politics</i> 59 (1), 61-67.'
+citation: 'Quinlan, Stephen, Schnaudt, Christian, and Lewis-Beck, Michael (2026). &quot;A Political History Forecast of Bloc Support in the 2025 German Federal Election.&quot; <i>PS: Political Science & Politics</i> 59 (1), 61-67.'
 ---
