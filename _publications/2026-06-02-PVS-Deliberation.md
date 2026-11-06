@@ -6,5 +6,5 @@ excerpt: 'Starting from the premise that deliberative democracy requires a “co
 date: 2026-06-02
 venue: 'Politische Vierteljahresschrift'
 paperurl: 'https://link.springer.com/article/10.1007/s11615-026-00666-6'
-citation: 'Schmitt-Beck, Rüdiger and Schnaudt, Christian. 2026. "In Search of the “Deliberative Citizen”: Deliberative Principles in Germans’ Everyday Political Talk." <i>Politische Vierteljahresschrift</i> (online first).'
+citation: 'Schmitt-Beck, Rüdiger and Schnaudt, Christian. 2026. "In Search of the “Deliberative Citizen”: Deliberative Principles in Germans’ Everyday Political Talk." <i>Politische Vierteljahresschrift</i> 67 (4), 903-925.'
 ---
